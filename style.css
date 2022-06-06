@@ -1,0 +1,48 @@
+html, body {
+	width: 100vw;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+}
+html {
+	padding: 10px;
+	box-sizing: border-box;
+}
+body {
+	background: black;
+}
+circle {
+	display: none;
+}
+
+h2 {
+	position: absolute;
+	font-family: sans-serif;
+	bottom: 0;
+	color: yellow;
+	left: 0;
+	width: 100%;
+	text-align: right;
+	padding-right: 10px;
+	box-sizing: border-box;
+	font-weight: 100;
+	font-size: 12pt;
+	pointer-events: none;
+}
+a {
+	position: fixed;
+	font-family: sans-serif;
+	color: yellow;
+	top: 10px;
+	right: 10px;
+	text-align: left;
+	padding: 5px;
+	box-sizing: border-box;
+	font-weight: 100;
+	font-size: 12pt;
+	text-decoration: none;
+  display: inline-block;
+	height: 30px;
+	outline: solid white 1px;
+	z-index: 10;
+}

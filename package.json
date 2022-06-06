@@ -1,0 +1,11 @@
+{
+  "homepage": "http://nksazonov.github.io/computational-geometry-lab-2",
+  "name": "lab2",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
