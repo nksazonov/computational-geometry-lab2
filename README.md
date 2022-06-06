@@ -3,6 +3,7 @@
 ## Theory:
 
 [Delaunay Triangulation: Incremental Construction](https://ti.inf.ethz.ch/ew/courses/CG13/lecture/Chapter%207.pdf)
+[Скворцов - Триангуляция Делоне](https://e-maxx.ru/bookz/files/skvortsov.pdf)
 
 ## Algorithm
 
